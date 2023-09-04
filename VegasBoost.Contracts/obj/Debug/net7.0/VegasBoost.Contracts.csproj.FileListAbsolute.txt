@@ -1,0 +1,12 @@
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\bin\Debug\net7.0\VegasBoost.Contracts.deps.json
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\bin\Debug\net7.0\VegasBoost.Contracts.dll
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\bin\Debug\net7.0\VegasBoost.Contracts.pdb
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\obj\Debug\net7.0\VegasBoost.Contracts.csproj.AssemblyReference.cache
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\obj\Debug\net7.0\VegasBoost.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\obj\Debug\net7.0\VegasBoost.Contracts.AssemblyInfoInputs.cache
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\obj\Debug\net7.0\VegasBoost.Contracts.AssemblyInfo.cs
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\obj\Debug\net7.0\VegasBoost.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\obj\Debug\net7.0\VegasBoost.Contracts.dll
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\obj\Debug\net7.0\refint\VegasBoost.Contracts.dll
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\obj\Debug\net7.0\VegasBoost.Contracts.pdb
+C:\Users\AAKASH\Desktop\C-sharp-repo\APIBuild\VegasBoost\VegasBoost.Contracts\obj\Debug\net7.0\ref\VegasBoost.Contracts.dll
