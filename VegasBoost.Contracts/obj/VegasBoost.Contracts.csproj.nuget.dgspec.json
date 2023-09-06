@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj": {}
+    "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj": {
+    "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj",
         "projectName": "VegasBoost.Contracts",
-        "projectPath": "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj",
+        "projectPath": "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj",
         "packagesPath": "C:\\Users\\AAKASH\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AAKASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
