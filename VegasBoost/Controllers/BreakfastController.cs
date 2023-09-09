@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using VegasBoost.Contracts.Vegas;
 using VegasBoost.Models;
+using VegasBoost.Services.Breakfasts;
 
 namespace VegasBoost.Controllers
 {
@@ -8,6 +9,14 @@ namespace VegasBoost.Controllers
     [Route("[controller]")]
     public class BreakfastController : ControllerBase
     {
+        private readonly IBreakfastService _breakfastService;
+
+        public BreakfastController(IBreakfastService breakfastService)
+        {
+            _breakfastService = breakfastService;
+        }
+
+
         [HttpPost("")]
         public IActionResult CreateBreakfast(CreateBreakfastRequest request)
         {
@@ -21,6 +30,8 @@ namespace VegasBoost.Controllers
                 request.Savory,
                 request.Sweet);
             //ToDO: Save nreakfast to database
+            _breakfastService.CreateBreakfast(breakfast);
+
 
             var response = new BreakfastResponse(
                 breakfast.Id,
@@ -42,6 +53,7 @@ namespace VegasBoost.Controllers
         [HttpGet("{id:guid}")]
         public IActionResult GetBreakfast(Guid id)
         {
+            Breakfast breakfast = _breakfastService.GetBreakfast(id);
             return Ok(id);
         }
 

@@ -481,11 +481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost\\VegasBoost.csproj",
+      "projectUniqueName": "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost\\VegasBoost.csproj",
       "projectName": "VegasBoost",
-      "projectPath": "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost\\VegasBoost.csproj",
+      "projectPath": "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost\\VegasBoost.csproj",
       "packagesPath": "C:\\Users\\AAKASH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost\\obj\\",
+      "outputPath": "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AAKASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -502,8 +502,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj": {
-              "projectPath": "C:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj"
+            "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj": {
+              "projectPath": "c:\\Users\\AAKASH\\Desktop\\C-sharp-repo\\APIBuild\\VegasBoost\\VegasBoost.Contracts\\VegasBoost.Contracts.csproj"
             }
           }
         }
